@@ -1,8 +1,8 @@
-# **Raphus Systems**
+# **Kurajo**
 
 _Making CI/CD workflows effortless!_
 
-Raphus Systems is an independent initiative focused on **developer experience, automation, and efficiency**.  
+Kurajo is an independent initiative focused on **developer experience, automation, and efficiency**.  
 Our projects are designed to **reduce friction** and **accelerate workflows**—starting with **Dodo** and **raphus.io**.  
 
 ## What We’re Working On
