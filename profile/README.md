@@ -3,11 +3,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="../images/Kurajo-light.png" alt="Kurajo's Light Logo" width="300"><br>
+      <img src="../images/Kurajo-light.png" alt="Kurajo's Light Logo" width="200"><br>
       <sub>Dark Mode Logo</sub>
     </td>
     <td align="center">
-      <img src="../images/Kurajo-dark.png" alt="Kurajo's Dark Logo" width="300"><br>
+      <img src="../images/Kurajo-dark.png" alt="Kurajo's Dark Logo" width="200"><br>
       <sub>Light Mode Logo</sub>
     </td>
   </tr>
