@@ -1,8 +1,14 @@
 # **Kurajo**
 
 <p align="center">
-  <img src="../images/kurajo-logo-light.png" alt="Kurajo's Light Logo">
-  <img src="../images/kurajo-logo-dark.png" alt="Kurajo's Dark Logo">
+  <figure style="display:inline-block; margin: 0 10px; text-align: center;">
+    <img src="../images/kurajo-logo-light.png" alt="Kurajo's Light Logo" width="200">
+    <figcaption>Light Mode Logo</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin: 0 10px; text-align: center;">
+    <img src="../images/kurajo-logo-dark.png" alt="Kurajo's Dark Logo" width="200">
+    <figcaption>Dark Mode Logo</figcaption>
+  </figure>
 </p>
 
 _Making CI/CD workflows effortless!_
