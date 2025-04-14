@@ -1,5 +1,10 @@
 # **Kurajo**
 
+<p align="center">
+  <img src="../images/kurajo-logo-light.png" alt="Kurajo's Light Logo">
+  <img src="../images/kurajo-logo-dark.png" alt="Kurajo's Dark Logo">
+</p>
+
 _Making CI/CD workflows effortless!_
 
 Kurajo is an independent initiative focused on **developer experience, automation, and efficiency**.  
